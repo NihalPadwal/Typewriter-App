@@ -7,7 +7,7 @@ This is a Typewriter App made using HTML, React, and Bulma CSS. This game has a 
 Images are from Project
 ## 📸 ScreenShots
 
-|------|
+
 
 |<img src="s1.png" width="600">|
 |------|
